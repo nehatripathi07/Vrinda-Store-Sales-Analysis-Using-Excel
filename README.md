@@ -74,5 +74,6 @@ This project demonstrates how Microsoft Excel can transform raw sales data into 
 - Presenting sales data for business analysis.
 
 ## Project Files
-- `Vrinda_Store_Analysis.xlsx` — Complete Excel workbook.
-- `Dashboard.png` — Dashboard preview.
+
+- [📊 Download Excel Workbook](Vrinda_Store_Analysis.xlsx)
+- [🖼️ View Dashboard Image](Dashboard.png)
